@@ -1,0 +1,190 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Joelyson David\\Documents\\Works\\Projetos\\GameTOP\\GameTOP\\GameTOP.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Joelyson David\\Documents\\Works\\Projetos\\GameTOP\\GameTOP.Interface\\GameTOP.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Joelyson David\\Documents\\Works\\Projetos\\GameTOP\\GameTOP.Interface\\GameTOP.Interface.csproj",
+        "projectName": "GameTOP.Interface",
+        "projectPath": "C:\\Users\\Joelyson David\\Documents\\Works\\Projetos\\GameTOP\\GameTOP.Interface\\GameTOP.Interface.csproj",
+        "packagesPath": "C:\\Users\\Joelyson David\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joelyson David\\Documents\\Works\\Projetos\\GameTOP\\GameTOP.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Joelyson David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Joelyson David\\Documents\\Works\\Projetos\\GameTOP\\GameTOP.Lib\\GameTOP.Lib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Joelyson David\\Documents\\Works\\Projetos\\GameTOP\\GameTOP.Lib\\GameTOP.Lib.csproj",
+        "projectName": "GameTOP.Lib",
+        "projectPath": "C:\\Users\\Joelyson David\\Documents\\Works\\Projetos\\GameTOP\\GameTOP.Lib\\GameTOP.Lib.csproj",
+        "packagesPath": "C:\\Users\\Joelyson David\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joelyson David\\Documents\\Works\\Projetos\\GameTOP\\GameTOP.Lib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Joelyson David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\Joelyson David\\Documents\\Works\\Projetos\\GameTOP\\GameTOP.Interface\\GameTOP.Interface.csproj": {
+                "projectPath": "C:\\Users\\Joelyson David\\Documents\\Works\\Projetos\\GameTOP\\GameTOP.Interface\\GameTOP.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Joelyson David\\Documents\\Works\\Projetos\\GameTOP\\GameTOP\\GameTOP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Joelyson David\\Documents\\Works\\Projetos\\GameTOP\\GameTOP\\GameTOP.csproj",
+        "projectName": "GameTOP",
+        "projectPath": "C:\\Users\\Joelyson David\\Documents\\Works\\Projetos\\GameTOP\\GameTOP\\GameTOP.csproj",
+        "packagesPath": "C:\\Users\\Joelyson David\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joelyson David\\Documents\\Works\\Projetos\\GameTOP\\GameTOP\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Joelyson David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\Joelyson David\\Documents\\Works\\Projetos\\GameTOP\\GameTOP.Interface\\GameTOP.Interface.csproj": {
+                "projectPath": "C:\\Users\\Joelyson David\\Documents\\Works\\Projetos\\GameTOP\\GameTOP.Interface\\GameTOP.Interface.csproj"
+              },
+              "C:\\Users\\Joelyson David\\Documents\\Works\\Projetos\\GameTOP\\GameTOP.Lib\\GameTOP.Lib.csproj": {
+                "projectPath": "C:\\Users\\Joelyson David\\Documents\\Works\\Projetos\\GameTOP\\GameTOP.Lib\\GameTOP.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

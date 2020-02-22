@@ -1,0 +1,7 @@
+C:\Users\Joelyson David\Documents\Works\Projetos\GameTOP\GameTOP.Interface\bin\Debug\netcoreapp3.0\GameTOP.Interface.deps.json
+C:\Users\Joelyson David\Documents\Works\Projetos\GameTOP\GameTOP.Interface\bin\Debug\netcoreapp3.0\GameTOP.Interface.dll
+C:\Users\Joelyson David\Documents\Works\Projetos\GameTOP\GameTOP.Interface\bin\Debug\netcoreapp3.0\GameTOP.Interface.pdb
+C:\Users\Joelyson David\Documents\Works\Projetos\GameTOP\GameTOP.Interface\obj\Debug\netcoreapp3.0\GameTOP.Interface.AssemblyInfoInputs.cache
+C:\Users\Joelyson David\Documents\Works\Projetos\GameTOP\GameTOP.Interface\obj\Debug\netcoreapp3.0\GameTOP.Interface.AssemblyInfo.cs
+C:\Users\Joelyson David\Documents\Works\Projetos\GameTOP\GameTOP.Interface\obj\Debug\netcoreapp3.0\GameTOP.Interface.dll
+C:\Users\Joelyson David\Documents\Works\Projetos\GameTOP\GameTOP.Interface\obj\Debug\netcoreapp3.0\GameTOP.Interface.pdb

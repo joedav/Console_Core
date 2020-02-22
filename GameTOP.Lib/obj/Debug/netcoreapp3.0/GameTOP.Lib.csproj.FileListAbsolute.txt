@@ -1,0 +1,11 @@
+C:\Users\Joelyson David\Documents\Works\Projetos\GameTOP\GameTOP.Lib\obj\Debug\netcoreapp3.0\GameTOP.Lib.csprojAssemblyReference.cache
+C:\Users\Joelyson David\Documents\Works\Projetos\GameTOP\GameTOP.Lib\obj\Debug\netcoreapp3.0\GameTOP.Lib.AssemblyInfoInputs.cache
+C:\Users\Joelyson David\Documents\Works\Projetos\GameTOP\GameTOP.Lib\obj\Debug\netcoreapp3.0\GameTOP.Lib.AssemblyInfo.cs
+C:\Users\Joelyson David\Documents\Works\Projetos\GameTOP\GameTOP.Lib\bin\Debug\netcoreapp3.0\GameTOP.Lib.deps.json
+C:\Users\Joelyson David\Documents\Works\Projetos\GameTOP\GameTOP.Lib\bin\Debug\netcoreapp3.0\GameTOP.Lib.dll
+C:\Users\Joelyson David\Documents\Works\Projetos\GameTOP\GameTOP.Lib\bin\Debug\netcoreapp3.0\GameTOP.Lib.pdb
+C:\Users\Joelyson David\Documents\Works\Projetos\GameTOP\GameTOP.Lib\bin\Debug\netcoreapp3.0\GameTOP.Interface.dll
+C:\Users\Joelyson David\Documents\Works\Projetos\GameTOP\GameTOP.Lib\bin\Debug\netcoreapp3.0\GameTOP.Interface.pdb
+C:\Users\Joelyson David\Documents\Works\Projetos\GameTOP\GameTOP.Lib\obj\Debug\netcoreapp3.0\GameTOP.Lib.csproj.CopyComplete
+C:\Users\Joelyson David\Documents\Works\Projetos\GameTOP\GameTOP.Lib\obj\Debug\netcoreapp3.0\GameTOP.Lib.dll
+C:\Users\Joelyson David\Documents\Works\Projetos\GameTOP\GameTOP.Lib\obj\Debug\netcoreapp3.0\GameTOP.Lib.pdb
